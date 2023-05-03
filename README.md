@@ -1,6 +1,6 @@
 # phone-number-formatter
 
-A JavaScript package for formatting phone numbers.
+create-phone-number is a JavaScript package that provides a function for generating a formatted phone number from an array of digits. Given an array of 10 digits, the function creates a string in the format (XXX) XXX-XXXX, where X represents a digit from the input array. The package simplifies the process of generating formatted phone numbers in JavaScript projects.
 
 ## Installation
 
